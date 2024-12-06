@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Abbuss
 # 💫 About Me:
-I'm Moutari Mallam Idi IDRISSA <br>
+My name is Moutari Mallam Idi IDRISSA <br>
 alias ABBA, an IT Technician and web developer, <br> with 4 years Exp in computer maintenance.<br>
 currently training to become a SoftWare Development Engineer.<br>
 Technology is a fascinating world for me.<br>
