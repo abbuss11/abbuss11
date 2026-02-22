@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Abbuss
+## Hi there 👋 It's Abbuss The Dev'loper
 # 💫 About Me:
-My name is Moutari Mallam Idi IDRISSA <br>
-alias ABBA, an IT Technician and web developer, <br> with 4 years Exp in computer maintenance.<br>
+I'm M.M.I  IDRISSA <br>
+aka ABBA, an IT Technician and web developer, <br> with 4 years Exp in computer maintenance.<br>
 currently training to become a SoftWare Development Engineer.<br>
 Technology is a fascinating world for me.<br>
 I enjoy exploring new technologies and being <br> involved in tech communities, <br> exchanging ideas about digital development, <br> and collaborating with other developers to <br> drive technological progress in my surroundings. 
