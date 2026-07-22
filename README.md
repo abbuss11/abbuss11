@@ -25,7 +25,7 @@ drive technological progress in my surroundings.
 
 <div align="left">
 
-- 🌱 I'm currently learning **I'm learning Flutter**
+- 🌱 I'm currently **learning about my llife**
 
 </div>
 
