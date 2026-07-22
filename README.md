@@ -74,7 +74,7 @@ drive technological progress in my surroundings.
 <div align="left">
 
 - 📫 How to reach me **idrissabba14@gmail.com**
-- 👨‍💻 All of my projects are available at [https://abbuss.netlify.app](https://abbuss.netlify.app)
+- 👨‍💻 All of my projects are available at [https://the-devloper.onrender.com](https://the-devloper.onrender.com)
 
 </div>
 
