@@ -2,7 +2,7 @@ name: Daily README update
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 0,6,12,18 * * *"   # 4 fois par jour : 00h, 06h, 12h, 18h UTC
   workflow_dispatch:
 
 permissions:
@@ -12,17 +12,17 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Mettre à jour le README
         run: |
-          TODAY=$(date -u +'%d/%m/%Y')
-          sed -i "s|^Dernière mise à jour :.*|Dernière mise à jour : $TODAY|" README.md
+          NOW=$(date -u +'%d/%m/%Y à %H:%M UTC')
+          sed -i "s|^Dernière mise à jour :.*|Dernière mise à jour : $NOW|" README.md
 
       - name: Commit et push
         run: |
           git config user.name "abbuss11"
           git config user.email "idrissabba14@gmail.com"
           git add README.md
-          git commit -m "chore: daily update $(date -u +'%Y-%m-%d')" || exit 0
+          git commit -m "chore: update $(date -u +'%Y-%m-%d %H:%M')" || exit 0
           git push
