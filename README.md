@@ -154,7 +154,7 @@ drive technological progress in my surroundings.
 **Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 </div>
-Dernière mise à jour : 13/11/2026
+Dernière mise à jour : 14/11/2026
 ---
 
 <div align="center">
